@@ -34,10 +34,10 @@
   </ul>
 </div>
 
-<div style="border: 4px solid #00f; border-radius: 15px; padding: 20px; margin-bottom: 20px; background-color: #1e1e1e; color: #f0f0f0;">
+<!-- <div style="border: 4px solid #00f; border-radius: 15px; padding: 20px; margin-bottom: 20px; background-color: #1e1e1e; color: #f0f0f0;">
   <h2 style="text-align: center; color: #00f;">🛠️ Currently Learning</h2>
   <p>AWS DevOps and Shell Scripting</p>
-</div>
+</div> -->
 
 <div style="border: 4px solid #00f; border-radius: 15px; padding: 20px; margin-bottom: 20px; background-color: #1e1e1e; color: #f0f0f0;">
   <h2 style="text-align: center; color: #00f;">📫 Contact Me</h2>
